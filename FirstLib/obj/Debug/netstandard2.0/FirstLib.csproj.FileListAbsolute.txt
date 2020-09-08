@@ -1,0 +1,9 @@
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\bin\Debug\netstandard2.0\FirstLib.deps.json
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\bin\Debug\netstandard2.0\FirstLib.dll
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\bin\Debug\netstandard2.0\FirstLib.pdb
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\obj\Debug\netstandard2.0\FirstLib.csprojAssemblyReference.cache
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\obj\Debug\netstandard2.0\FirstLib.AssemblyInfoInputs.cache
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\obj\Debug\netstandard2.0\FirstLib.AssemblyInfo.cs
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\obj\Debug\netstandard2.0\FirstLib.csproj.CoreCompileInputs.cache
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\obj\Debug\netstandard2.0\FirstLib.dll
+C:\Users\yogaggar\Desktop\Boot Camp\Sept 7\FirstSolution\FirstLib\obj\Debug\netstandard2.0\FirstLib.pdb
