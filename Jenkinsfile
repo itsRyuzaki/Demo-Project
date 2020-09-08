@@ -7,6 +7,12 @@ pipeline{
                 git url:"https://github.com/itsRyuzaki/Demo-Project.git"
             }
         }
+        stage('Restore-packages'){
+            steps{
+                echo "Preprocessing: Restore packages";
+                bat "dotnet restore"
+            }
+        }
         stage('Build'){
             steps{
                 echo "Building the project";
